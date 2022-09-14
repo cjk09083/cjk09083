@@ -32,7 +32,7 @@
 - Android-JAVA (4) : 실용 어플리케이션 제작 (카메라, Firebase, 서버연동 등) 
 - Flutter (3) : Android로 구현된 어플리케이션을 하이브리드로 제작 
 - Python (2) : 로봇 제어 (ROS) 및 서버 연동
-- Html, Javascript (3) : 간단한 홈페이지 및 ADMIN 기능 개발 
+- Html, Javascript (3) : 게시판&쇼핑몰 및 ADMIN 기능 개발 
 - Php (2) : 데이터 관리 및 조합 수행
 
 ## 🏆 Awards
