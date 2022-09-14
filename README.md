@@ -9,6 +9,8 @@
 - 홍익대학교/세종 (전기공학과) : 2012.03 ~ 2019.02
 - 홍익대학교/세종 일반대학원 석사과정 (전기공학과) : 2019.09 ~ 2021.08  <a href="http://www.riss.kr/link?id=T15894033" target="_blank">Thesis</a>
 <a href="https://ieeexplore.ieee.org/author/37088569163)" target="_blank">Paper</a>
+<img src="https://img.shields.io/badge/Paper-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
+
 - 바이트테크놀러지 (개발팀) : 2021.06 ~ 2022.06
 
 
