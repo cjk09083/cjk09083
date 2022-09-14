@@ -44,6 +44,6 @@
 
 ## 📝 Project
 <span>style="background-color:black;color:red">S.O.S</span>
-- <b>대학/개인 (2)</b> : <span>style="background-color:black;color:red">S.O.S</span>
+- <b>대학/개인 (2)</b> : <span style="background-color:black;color:red">S.O.S</span>
 - <b>대학원 (4)</b> : 스마트팜 탭검사기 스마트수로 SRCP  
 - <b>실무 (6)</b> : ATD CELLECO 안전한나라 TurboWin COOPOP 3DMAKERZ 
