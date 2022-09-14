@@ -9,7 +9,11 @@
 ## ✨Experience 
 - 홍익대학교/세종 (전기공학과) : 2012.03 ~ 2019.02
 - 홍익대학교/세종 일반대학원 석사과정 (전기공학과) : 2019.09 ~ 2021.08  <a href="http://www.riss.kr/link?id=T15894033" target="_blank">Thesis</a>
-<a href="https://ieeexplore.ieee.org/author/37088569163)" target="_blank">Paper</a>
+<a href="https://ieeexplore.ieee.org/author/37088569163" target="_blank">Paper</a>
+
+<a href="https://ieeexplore.ieee.org/author/37088569163" target="_blank">
+<img src=https://img.shields.io/badge/Paper-%2324292e.svg?&style=for-the-badge&logo=Apache&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 
 - 바이트테크놀러지 (개발팀) : 2021.06 ~ 2022.06
 
@@ -24,10 +28,6 @@
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a> 
 
-
-<a href="https://github.com/cjk09083" target="_blank">
-<img src=https://img.shields.io/badge/gfdfg-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 
 - Arduino (4) : Wifi, Lora, Blutooth등 통신 및 하드웨어 제어
 - Android-JAVA (4) : 실용 어플리케이션 제작 (카메라, Firebase, 서버연동 등) 
