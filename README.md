@@ -12,7 +12,7 @@
 - 바이트테크놀러지 (개발팀) : 2021.06 ~ 2022.06
 
 
-## 📝 Skill
+## 📝 Skill (1 ~ 5 Level)
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
@@ -24,7 +24,7 @@
 
  
 
-- [AngularJS] - HTML enhanced for web apps!
+- [Arduino](4) -  Wifi, Lora, Blutooth등 통신 및 하드웨어 제어
 - [Ace Editor] - awesome web-based text editor
 - [markdown-it] - Markdown parser done right. Fast and easy to extend.
 - [Twitter Bootstrap] - great UI boilerplate for modern web apps
