@@ -9,7 +9,7 @@
 <img src=https://img.shields.io/badge/Thesis-%EF5734.svg?&style=for-the-badge&logo=Cachet&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://ieeexplore.ieee.org/author/37088569163" target="_blank">
-<img src=https://img.shields.io/badge/Paper-%003DAD.svg?&style=for-the-badge&logo=Apache&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Paper-%2324292e.svg?&style=for-the-badge&logo=Apache&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
 ## ✨Experience 
