@@ -1,5 +1,5 @@
 # 최재국 (Jaekuk Choi)
-### Web&APP&IoT Developer 
+### Web & APP & IoT Developer 
 
 <a href="https://github.com/cjk09083" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
