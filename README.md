@@ -42,7 +42,7 @@
 - 창의적 종합설계 경진대회 본선 (한국산업진흥원) : 		한국산업진흥원장상 2018.11
 - Space Robotics Challenge Phase 2 (NASA 미항공우주국) : 	Final Phase 진출 2021.02 
 
-## :open_file_folder Project
+## 📂 Project
 - <b>대학/개인 (2)</b> : <a href="#n" style="background-color:black;color:red">S.O.S</a>
 - <b>대학원 (4)</b> : 스마트팜 탭검사기 스마트수로 SRCP  
 - <b>실무 (6)</b> : ATD CELLECO 안전한나라 TurboWin COOPOP 3DMAKERZ 
