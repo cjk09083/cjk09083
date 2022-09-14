@@ -44,7 +44,8 @@
 
 ## 📝 Project
 
-- <b>대학/개인 (2)</b> : <img src="https://img.shields.io/badge/S.O.S-777BB4?style=flat-square&logoColor=white"/></a> 
-
+- <b>대학/개인 (2)</b> : <a href="https://ieeexplore.ieee.org/author/37088569163" target="_blank">
+<img src=https://img.shields.io/badge/S.O.S-253B73.svg?&style=for-the-badge&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 - <b>대학원 (4)</b> : 스마트팜 탭검사기 스마트수로 스페이스챌린지  
 - <b>실무 (6)</b> : ATD CELLECO 안전한나라 TurboWin COOPOP 3DMAKERZ 
