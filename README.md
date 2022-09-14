@@ -24,11 +24,10 @@
 
 
 - Arduino (4) : Wifi, Lora, Blutooth등 통신 및 하드웨어 제어
-- [Ace Editor] - awesome web-based text editor
-- [markdown-it] - Markdown parser done right. Fast and easy to extend.
-- [Twitter Bootstrap] - great UI boilerplate for modern web apps
-- [node.js] - evented I/O for the backend
-- [Express] - fast node.js network app framework [@tjholowaychuk]
-- [Gulp] - the streaming build system
-- [jQuery] - duh
+- Android-JAVA (4) : 실용 어플리케이션 제작 (카메라, Firebase, 서버연동 등) 
+- Flutter (3) : Android로 구현된 어플리케이션을 하이브리드로 제작 
+- Python (2) : 로봇 제어 (ROS) 및 서버 연동
+- Html, Javascript (3) : 간단한 홈페이지 및 ADMIN 기능 개발 
+- Php (2) : 데이터 관리 및 조합 수행
+
 
