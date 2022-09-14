@@ -8,17 +8,13 @@
 <a href="http://www.riss.kr/link?id=T15894033" target="_blank">
 <img src=https://img.shields.io/badge/Email-%03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="http://www.riss.kr/link?id=T15894033" target="_blank">
-<img src=https://img.shields.io/badge/Thesis-%253B73.svg?&style=for-the-badge&logo=Cachet&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://ieeexplore.ieee.org/author/37088569163" target="_blank">
-<img src=https://img.shields.io/badge/Paper-%2324292e.svg?&style=for-the-badge&logo=Apache&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Paper-253B73.svg?&style=for-the-badge&logo=Apache&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
 ## ✨Experience 
 - 홍익대학교/세종 (전기공학과) : 2012.03 ~ 2019.02
 - 홍익대학교/세종 일반대학원 석사과정 (전기공학과) : 2019.09 ~ 2021.08  
-
 - 바이트테크놀러지 (개발팀) : 2021.06 ~ 2022.06
 
 
