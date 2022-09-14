@@ -28,12 +28,12 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a> 
 
 
-- Arduino (4) : Wifi, Lora, Blutooth등 통신 및 하드웨어 제어
+- <b>Arduino (4)</b> : Wifi, Lora, Blutooth등 통신 및 하드웨어 제어
 - <b>Android-JAVA (4)</b> : 실용 어플리케이션 제작 (카메라, Firebase, 서버연동 등) 
-- Flutter (3) : Android로 구현된 어플리케이션을 하이브리드로 제작 
-- Python (2) : 로봇 제어 (ROS) 및 서버 연동
-- Html, Javascript (3) : 게시판&쇼핑몰 및 ADMIN 기능 개발 
-- Php (2) : 데이터 관리 및 조합 수행
+- <b>Flutter (3)</b> : Android로 구현된 어플리케이션을 하이브리드로 제작 
+- <b>Python (2)</b> : 로봇 제어 (ROS) 및 서버 연동
+- <b>Html, Javascript (3)</b> : 게시판&쇼핑몰 및 ADMIN 기능 개발 
+- <b>Php (2)</b> : 데이터 관리 및 조합 수행
 
 ## 🏆 Awards
 - 문제 해결형 하드웨어 메이커톤 (세종창조경제혁신센터) : 	입선 2018.06
