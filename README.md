@@ -11,13 +11,13 @@
 <img src=https://img.shields.io/badge/Paper-253B73.svg?&style=for-the-badge&logo=Apache&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-## ✨Experience 
+### ✨Experience 
 - 홍익대학교/세종 (전기공학과) : 2012.03 ~ 2019.02
 - 홍익대학교/세종 일반대학원 석사졸업 (전기공학과) : 2019.09 ~ 2021.08  
 - 바이트테크놀러지 (개발팀) : 2021.06 ~ 2022.06
 
 
-## 📝Tech (1 ~ 5 Level)
+### 📝Tech (1 ~ 5 Level)
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
@@ -35,7 +35,7 @@
 - <b>Html, Javascript (3)</b> : 게시판&쇼핑몰 및 ADMIN 기능 개발 
 - <b>Php (3)</b> : 데이터 관리 및 조합 수행
 
-## 🏆 Awards
+### 🏆 Awards
 - 문제 해결형 하드웨어 메이커톤 (세종창조경제혁신센터) : 	입선 2018.06
 - 창의적 종합설계 경진대회 지역예선 (영남대공학교육혁신센터) : 	대상 2018.09
 - IoT 이노베이션 챌린지 (한국전자정보통신산업진흥회) : 	입선 2018.10
