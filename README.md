@@ -1,19 +1,24 @@
-### Hi there 👋
+# 최재국 (Jaekuk Choi)
+## Web&APP Developer
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<a href="https://github.com/cjk09083" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+
+## ✨Experience 
+- 홍익대학교/세종 (전기공학과) : 2012.03 ~ 2019.02
+- 홍익대학교/세종 일반대학원 석사과정 (전기공학과) : 2019.09 ~ 2021.08
+- 바이트테크놀러지 (개발팀) : 2021.06 ~ 2022.06
 
 
-<!--
-**cjk09083/cjk09083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📝 Skill
 
-Here are some ideas to get you started:
+- [AngularJS] - HTML enhanced for web apps!
+- [Ace Editor] - awesome web-based text editor
+- [markdown-it] - Markdown parser done right. Fast and easy to extend.
+- [Twitter Bootstrap] - great UI boilerplate for modern web apps
+- [node.js] - evented I/O for the backend
+- [Express] - fast node.js network app framework [@tjholowaychuk]
+- [Gulp] - the streaming build system
+- [jQuery] - duh
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
