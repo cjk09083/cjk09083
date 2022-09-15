@@ -17,6 +17,8 @@
 - 바이트테크놀러지 (개발팀) : 2021.06 ~ 2022.06
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjk09083)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📝Tech (1 ~ 5 Level)
 <div>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
