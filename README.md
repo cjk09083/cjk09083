@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
-</div></br>
+</div>
 
 (1: 사용경험 / 2: 개발에 활용 / 3: 프로젝트 메인 개발자 / 4: 1년이상 중규모 프로젝트 / 5: 대규모 프로젝트 + CS)
 - <b>Arduino (4)</b> : Wifi, Lora, Blutooth, I2C, Serial 등 유무선 통신 및 하드웨어 제어
