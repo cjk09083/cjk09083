@@ -53,5 +53,5 @@
   <a href="https://github.com/cjk09083/CoffeeTable" style="background-color:black;color:red">커피테이블</a>&nbsp;</div>
 - <div><b>대학원 (4)</b> : <a href="https://github.com/cjk09083/Tap-Inspection" style="background-color:black;color:red">스마트팜</a>&nbsp;
   <a href="https://github.com/cjk09083/SmartFarm" style="background-color:black;color:red">탭검사기</a>&nbsp;  스마트수로 SRCP  </div>
-- <b>실무 (6)</b> : ATD CELLECO 안전한나라 TurboWin COOPOP 3DMAKERZ
+- <b>회사 (6)</b> : ATD CELLECO 안전한나라 TurboWin COOPOP 3DMAKERZ
 - 다수의 아두이노, 라즈베리파이, 어플리케이션 시제품 및 졸업작품 제작
