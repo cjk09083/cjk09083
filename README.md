@@ -11,14 +11,14 @@
 <img src=https://img.shields.io/badge/Paper-253B73.svg?&style=for-the-badge&logo=Apache&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cjk09083&show_icons=true&include_all_commits=true&hide_border=true" alt="cjk09083's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjk09083&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 ## ✨Experience 
 - 홍익대학교/세종 (전기공학과) : 2012.03 ~ 2019.02
 - 홍익대학교/세종 일반대학원 석사졸업 (전기공학과) : 2019.09 ~ 2021.08  
 - 바이트테크놀러지 (개발팀) : 2021.06 ~ 2022.06
 
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cjk09083&show_icons=true&include_all_commits=true&hide_border=true" alt="cjk09083's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjk09083&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 ## 📝Tech (1 ~ 5 Level)
 <div>
