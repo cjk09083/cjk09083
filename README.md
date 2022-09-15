@@ -48,8 +48,9 @@
 - <b>Space Robotics Challenge Phase 2 (NASA 미항공우주국) :	<a href="http://www.irobotnews.com/news/articleView.html?idxno=23801" target="_blank">Final Phase 진출 2021.02 </a></b>
 
 ## 📂 Project
-- <b>대학&개인 (2)</b> : <a href="https://github.com/cjk09083/S.O.S" style="background-color:black;color:red">S.O.S</a>&nbsp;
+- <div><b>대학&개인 (2)</b> : <a href="https://github.com/cjk09083/S.O.S" style="background-color:black;color:red">S.O.S</a>&nbsp;
 <a href="https://github.com/cjk09083/CoffeeTable" style="background-color:black;color:red">커피테이블</a>&nbsp;
+다수의 아두이노, 라즈베리파이 시제품 제작</div>
 - <div><b>대학원 (4)</b> : <a href="https://github.com/cjk09083/SmartFarm" style="background-color:black;color:red">스마트팜</a>&nbsp;
   <a href="https://github.com/cjk09083/SmartFarm" style="background-color:black;color:red">탭검사기</a>&nbsp;  스마트수로 SRCP  </div>
 - <b>실무 (6)</b> : ATD CELLECO 안전한나라 TurboWin COOPOP 3DMAKERZ 
