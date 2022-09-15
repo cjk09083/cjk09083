@@ -55,4 +55,4 @@
   <a href="https://github.com/cjk09083/Tap-Inspection" style="background-color:black;color:red">탭검사기</a>&nbsp;  스마트수로 SRCP  </div>
 - <div><b>회사 (6)</b> : ATD CELLECO 안전한나라 TurboWin COOPOP 3DMAKERZ </div>
 - <div><b>개인 (1)</b> : <a href="https://github.com/cjk09083/PicknCheck" style="background-color:black;color:red">얼굴성격검사</a>&nbsp; </div>
-- 다수의 아두이노, 라즈베리파이, 어플리케이션 시제품 및 졸업작품 제작
+- 다수의 아두이노, 라즈베리파이, 웹사이트, 어플리케이션 시제품 및 졸업작품 제작
