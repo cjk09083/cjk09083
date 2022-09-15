@@ -29,7 +29,7 @@
 
 
 - <b>Arduino (4)</b> : Wifi, Lora, Blutooth, I2C, Serial 등 유무선 통신 및 하드웨어 제어
-- <b>Android-JAVA (4)</b> : 실용 어플리케이션 제작 (카메라, Firebase, 서버연동, WebRTC, GPS 등) 
+- <b>Android-JAVA (4)</b> : 실용 어플리케이션 제작 (Camera, Firebase, HTTP, WebRTC, GPS 등) 
 - <b>Flutter (3)</b> : Android로 구현된 어플리케이션을 하이브리드(+IOS)로 제작 
 - <b>Python (2)</b> : 로봇 제어 (ROS), 서버 연동
 - <b>Html, Javascript (3)</b> : 게시판&쇼핑몰 및 ADMIN 페이지 개발 
