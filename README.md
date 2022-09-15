@@ -21,7 +21,7 @@
 - 바이트테크놀러지 (개발팀) : 2021.06 ~ 2022.06
 
 
-## 📝Tech 
+## 📝Tech (1 ~ 5 Level)
 <div>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
