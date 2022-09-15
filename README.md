@@ -17,7 +17,7 @@
 - 바이트테크놀러지 (개발팀) : 2021.06 ~ 2022.06
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cjk09083&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="cjk09083's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjk09083&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cjk09083&show_icons=true&include_all_commits=true&hide_border=true" alt="cjk09083's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjk09083&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## 📝Tech (1 ~ 5 Level)
