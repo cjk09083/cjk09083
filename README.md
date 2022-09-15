@@ -16,7 +16,7 @@
 
 ## ✨Experience 
 - 홍익대학교/세종 (전기공학과) : 2012.03 ~ 2019.02
-- 홍익대학교/세종 일반대학원 석사졸업 (전기공학과) : 2019.09 ~ 2021.08  
+- 홍익대학교/세종 일반대학원 석사졸업 (전기공학과) : 2019.09 ~ 2021.08  [정규학기 실습조교, 아두이노 방학특강 2회 진행 (총 30시간)]
 - 바이트테크놀러지 (개발팀) : 2021.06 ~ 2022.06
 
 
@@ -49,8 +49,8 @@
 
 ## 📂 Project
 - <div><b>대학&개인 (2)</b> : <a href="https://github.com/cjk09083/S.O.S" style="background-color:black;color:red">S.O.S</a>&nbsp;
-<a href="https://github.com/cjk09083/CoffeeTable" style="background-color:black;color:red">커피테이블</a>&nbsp;
-다수의 아두이노, 라즈베리파이 시제품 제작</div>
+  <a href="https://github.com/cjk09083/CoffeeTable" style="background-color:black;color:red">커피테이블</a>&nbsp;
+  다수의 아두이노, 라즈베리파이 시제품 제작</div>
 - <div><b>대학원 (4)</b> : <a href="https://github.com/cjk09083/SmartFarm" style="background-color:black;color:red">스마트팜</a>&nbsp;
   <a href="https://github.com/cjk09083/SmartFarm" style="background-color:black;color:red">탭검사기</a>&nbsp;  스마트수로 SRCP  </div>
 - <b>실무 (6)</b> : ATD CELLECO 안전한나라 TurboWin COOPOP 3DMAKERZ 
