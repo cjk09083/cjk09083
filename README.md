@@ -48,5 +48,4 @@
 - <div><b>대학원 (4)</b> : <a href="https://github.com/cjk09083/SmartFarm" style="background-color:black;color:red">스마트팜</a> 
   <a href="https://github.com/cjk09083/SmartFarm" style="background-color:black;color:red">탭검사기</a> 스마트수로 SRCP  
 </div>
-
 - <b>실무 (6)</b> : ATD CELLECO 안전한나라 TurboWin COOPOP 3DMAKERZ 
