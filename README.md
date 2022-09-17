@@ -55,5 +55,6 @@
 - <div><b>대학원 (4)</b> : <a href="https://github.com/cjk09083/SmartFarm" style="background-color:black;color:red"><b>스마트팜</b></a>&nbsp;
   <a href="https://github.com/cjk09083/Tap-Inspection" style="background-color:black;color:red">탭검사기</a>&nbsp;  스마트수로 <b>SRCP</b>  </div>
 - <div><b>회사 (6)</b> : <b>ATD</b> CELLECO <b>안전한나라</b> TurboWin <b>COOPOP</b> 3DMAKERZ </div>
-- <div><b>개인 (1)</b> : <a href="https://github.com/cjk09083/PicknCheck" style="background-color:black;color:red"><b>얼굴성격검사</b></a>&nbsp; </div>
+- <div><b>개인 (2)</b> : <a href="https://github.com/cjk09083/PicknCheck" style="background-color:black;color:red"><b>얼굴성격검사</b></a>&nbsp; 
+메타버스게임</div>
 - 다수의 아두이노, 라즈베리파이, 웹사이트, 어플리케이션 시제품 및 졸업작품 제작
