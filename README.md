@@ -53,11 +53,11 @@
 ## 📂 Project
 - <div><b>대학 (2)</b> : <a href="https://github.com/cjk09083/S.O.S" style="background-color:black;color:red">S.O.S</a>&nbsp;
   <a href="https://github.com/cjk09083/CoffeeTable" style="background-color:black;color:red">커피테이블</a>&nbsp;</div>
-- <div><b>대학원 (5)</b> : <a href="https://github.com/cjk09083/SmartFarm" style="background-color:black;color:red"><b>스마트팜</b></a>&nbsp;
+- <div><b>대학원 (5)</b> : <a href="https://github.com/cjk09083/SRCP" style="background-color:black;color:red"><b>SRCP</b></a>&nbsp;
+  <a href="https://github.com/cjk09083/Rendezvous" style="background-color:black;color:red"><b>멀티로봇랑데뷰</b></a></div>&nbsp;
+  <a href="https://github.com/cjk09083/SmartFarm" style="background-color:black;color:red"><b>스마트팜</b></a>&nbsp;
   <a href="https://github.com/cjk09083/Tap-Inspection" style="background-color:black;color:red">탭검사기</a>&nbsp;  
   <a href="https://github.com/cjk09083/SmartValve" style="background-color:black;color:red">스마트수로</a>&nbsp; 
-  <a href="https://github.com/cjk09083/SRCP" style="background-color:black;color:red"><b>SRCP</b></a>&nbsp;
-  <a href="https://github.com/cjk09083/Rendezvous" style="background-color:black;color:red"><b>멀티로봇랑데뷰</b></a></div>
 - <div><b>회사 (6)</b> : <b>ATD</b> CELLECO <b>안전한나라</b> TurboWin COOPOP 3DMAKERZ </div>
 - <div><b>개인 (2)</b> : <a href="https://github.com/cjk09083/PicknCheck" style="background-color:black;color:red"><b>얼굴성격검사</b></a>&nbsp; 메타버스게임</div>
 - 다수의 아두이노, 라즈베리파이, 웹사이트, 어플리케이션 시제품 및 졸업작품 제작
