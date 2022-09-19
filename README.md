@@ -37,8 +37,8 @@
 
 (1: 사용경험 / 2: 개발에 활용 / 3: 프로젝트 메인 개발자 / 4: 1년이상 중규모 프로젝트 / 5: 대규모 프로젝트 + CS)
 - <b>Arduino (4)</b> : Wifi, Lora, Blutooth, I2C, Serial 등 유무선 통신 및 하드웨어 제어
-- <b>Android-JAVA (4)</b> : 상용 어플리케이션 개발 및 배포 (Camera, Firebase, HTTP, WebRTC, GPS, SQLite 등) 
-- <b>Flutter (3)</b> : Android로 구현된 어플리케이션을 하이브리드(+IOS)로 개발 및 배포
+- <b>Android(JAVA) (4)</b> : 상용 어플리케이션 개발 및 배포 (Camera, Firebase, HTTP, WebRTC, GPS, SQLite 등) 
+- <b>Flutter(Dart) (3)</b> : Android로 구현된 어플리케이션을 하이브리드(+IOS)로 개발 및 배포
 - <b>Python (2)</b> : 로봇 제어 (ROS), 서버 연동, SQLite
 - <b>Html, Javascript (3)</b> : 게시판 & 쇼핑몰 & 회사관리 홈페이지 개발 
 - <b>Php (3)</b> : MySQL, JSON 데이터 관리 및 조합, 이니시스 & 네이버페이 결제, SMS & FCM 전송 
