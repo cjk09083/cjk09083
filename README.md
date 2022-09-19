@@ -11,7 +11,7 @@
 <img src=https://img.shields.io/badge/Paper-253B73.svg?&style=for-the-badge&logo=Apache&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cjk09083&show_icons=true&include_all_commits=true&hide_border=true" alt="cjk09083's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjk09083&layout=compact&hide_border=true&hide=Cmake,Makefile,C,Common%20Lisp&langs_count=8" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cjk09083&show_icons=true&include_all_commits=true&hide_border=true" alt="cjk09083's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjk09083&layout=compact&hide_border=true&hide=Cmake,Makefile,C,Common%20Lisp,Cuda,Shell&langs_count=8" /></a> |
 | ------------- | ------------- |
 
 ## ✨Experience 
