@@ -39,10 +39,10 @@
 - <b>Arduino (4)</b> : Wifi, Lora, Blutooth, Zigbee, I2C, Serial 등 유무선 통신 및 하드웨어 제어
 - <b>Android(JAVA) (4)</b> : 상용 어플리케이션 개발 및 배포 (Camera, Firebase, HTTP, WebRTC, GPS, SQLite 등) 
 - <b>Flutter(Dart) (3)</b> : Android로 구현된 어플리케이션을 하이브리드(+IOS)로 개발 및 배포
-- <b>Python (2)</b> : 로봇 제어 (ROS), 서버 연동, SQLite
+- <b>Python (3)</b> : 로봇 제어 (ROS), 서버 연동, SQLite
 - <b>HTML, Javascript (3)</b> : 게시판 & 쇼핑몰 & 회사관리 홈페이지 개발 
 - <b>Php (3)</b> : MySQL, JSON 데이터 관리 및 조합, 이니시스 & 네이버페이 결제, SMS & FCM 전송 
-- <b>C, LabVie (2)</b> : 대학 설계 과제에 활용
+- <b>C, LabVie (2)</b> : 대학 설계 프로젝트에 활용
 
 ## 🏆 Award
 - 문제 해결형 하드웨어 메이커톤 (세종창조경제혁신센터) : 	입선 2018.06
