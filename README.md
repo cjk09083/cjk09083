@@ -59,8 +59,8 @@
     <a href="https://github.com/cjk09083/Rendezvous" style="background-color:black;color:red">멀티로봇랑데부</a>&nbsp;
   <a href="https://github.com/cjk09083/Tap-Inspection" style="background-color:black;color:red">탭검사기</a>&nbsp;  
   <a href="https://github.com/cjk09083/SmartValve" style="background-color:black;color:red">스마트수로</a>&nbsp; </div>
-- <div><b>회사 (6)</b> : <a href="https://github.com/cjk09083/ATD" style="background-color:black;color:red"><b>ATD</b></a>&nbsp;
+- <div><b>회사 (6) - 1인개발</b> : <a href="https://github.com/cjk09083/ATD" style="background-color:black;color:red"><b>ATD</b></a>&nbsp;
   <a href="https://github.com/cjk09083/SafetyHome" style="background-color:black;color:red"><b>안전한나라</b></a>&nbsp;
   CELLECO TurboWin COOPOP 3DMAKERZ </div>
-- <div><b>개인 (2)</b> : <a href="https://github.com/cjk09083/PicknCheck" style="background-color:black;color:red"><b>얼굴성격검사</b></a>&nbsp; 메타버스게임</div>
+- <div><b>개인 (2) - 1인개발</b> : <a href="https://github.com/cjk09083/PicknCheck" style="background-color:black;color:red"><b>얼굴성격검사</b></a>&nbsp; 메타버스게임</div>
 - 다수의 아두이노, 라즈베리파이, 웹사이트, 어플리케이션 시제품 및 졸업작품 제작
