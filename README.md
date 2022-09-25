@@ -52,7 +52,6 @@
 - <b>SRCP: Space Robotics Challenge Phase 2 (NASA 미항공우주국) :	<a href="http://www.irobotnews.com/news/articleView.html?idxno=23801" target="_blank">Qualification Winner 2021.02 </a></b>
 
 ## 📂 Project 
-(굵은 글씨는 주요 프로젝트)
 - <div><b>대학 (2)</b> : <a href="https://github.com/cjk09083/S.O.S" style="background-color:black;color:red">S.O.S</a>&nbsp;
   <a href="https://github.com/cjk09083/CoffeeTable" style="background-color:black;color:red">커피테이블</a>&nbsp;</div>
 - <div><b>대학원 (5)</b> : <a href="https://github.com/cjk09083/SRCP" style="background-color:black;color:red"><b>SRCP</b></a>&nbsp;
