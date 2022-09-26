@@ -55,7 +55,7 @@
 - <div><b>대학 (2)</b> : <a href="https://github.com/cjk09083/S.O.S" style="background-color:black;color:red">S.O.S</a>&nbsp;
   <a href="https://github.com/cjk09083/CoffeeTable" style="background-color:black;color:red">커피테이블</a>&nbsp;</div>
 - <div><b>대학원 (5)</b> : <a href="https://github.com/cjk09083/SRCP" style="background-color:black;color:red"><b>SRCP</b></a>&nbsp;
-  <a href="https://github.com/cjk09083/SmartFarm" style="background-color:black;color:red"><b>스마트팜</b></a>&nbsp;
+  <a href="https://github.com/cjk09083/SmartFarm" style="background-color:black;color:red">스마트팜</a>&nbsp;
     <a href="https://github.com/cjk09083/Rendezvous" style="background-color:black;color:red">멀티로봇랑데부</a>&nbsp;
   <a href="https://github.com/cjk09083/Tap-Inspection" style="background-color:black;color:red">탭검사기</a>&nbsp;  
   <a href="https://github.com/cjk09083/SmartValve" style="background-color:black;color:red">스마트수로</a>&nbsp; </div>
