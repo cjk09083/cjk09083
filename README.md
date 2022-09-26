@@ -64,6 +64,10 @@
   <a href="https://github.com/cjk09083/SmartValve" style="background-color:black;color:red">스마트수로</a>&nbsp; </div>
 - <div><b>회사 (6)</b> : <a href="https://github.com/cjk09083/ATD" style="background-color:black;color:red"><b>ATD</b></a>&nbsp;
   <a href="https://github.com/cjk09083/SafetyHome" style="background-color:black;color:red"><b>안전한나라</b></a>&nbsp;
-  CELLECO TurboWin COOPOP 3DMAKERZ </div>
+  <a href="https://github.com/cjk09083/CELLECO" style="background-color:black;color:red">CELLECO</a>&nbsp;
+  <a href="https://github.com/cjk09083/TurboWin" style="background-color:black;color:red">TurboWin</a>&nbsp;
+  <a href="https://github.com/cjk09083/COOPOP" style="background-color:black;color:red">COOPOP</a>&nbsp;
+  <a href="https://github.com/cjk09083/3DMAKERZ" style="background-color:black;color:red">3DMAKERZ</a>&nbsp;
+      </div>
 - <div><b>개인 (2)</b> : <a href="https://github.com/cjk09083/PicknCheck" style="background-color:black;color:red"><b>얼굴성격검사</b></a>&nbsp; 메타버스게임</div>
 - 다수의 아두이노, 라즈베리파이, 웹사이트, 어플리케이션 시제품 및 졸업작품 제작
