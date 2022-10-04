@@ -10,7 +10,7 @@
 <a href="https://ieeexplore.ieee.org/author/37088569163" target="_blank">
 <img src=https://img.shields.io/badge/Paper-253B73.svg?&style=for-the-badge&logo=Apache&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://ieeexplore.ieee.org/author/37088569163" target="_blank">
+<a href="https://cjk09083.tistory.com/" target="_blank">
 <img src=https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
