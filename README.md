@@ -46,6 +46,7 @@
 - <b>HTML, Javascript (3)</b> : 게시판 & 쇼핑몰 & 회사관리 홈페이지 개발 
 - <b>Php (3)</b> : MySQL, JSON 데이터 관리 및 조합, 이니시스 & 네이버페이 결제, SMS & FCM 전송 
 - <b>C, LabView (2)</b> : 대학 설계 프로젝트에 활용
+- <b>AWS EC2 (2)</b> : Binance 코인 매매 봇 개발(Python)
 
 ## 🏆 Award
 - S.O.S: 문제 해결형 하드웨어 메이커톤 (세종창조경제혁신센터) :  입선 2018.06
