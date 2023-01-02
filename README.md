@@ -74,4 +74,4 @@
   <a href="https://github.com/cjk09083/meta" style="background-color:black;color:red"><b>메타버스게임</b></a>&nbsp;
   <a href="https://github.com/cjk09083/Code" style="background-color:black;color:red">코테자료</a>&nbsp;</div>
 
-- 다수의 아두이노, 라즈베리파이, 웹사이트, 어플리케이션 시제품 및 졸업작품 제작
+- 다수의 아두이노, 라즈베리파이, 웹사이트, 어플리케이션 제품 제작
