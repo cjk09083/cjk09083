@@ -71,7 +71,7 @@
   <a href="https://github.com/cjk09083/COOPOP" style="background-color:black;color:red">COOPOP</a>&nbsp;
   <a href="https://github.com/cjk09083/3DMAKERZ" style="background-color:black;color:red">3DMAKERZ</a>&nbsp;
       </div>
-- <div><b>개인 (2)</b> : <a href="https://github.com/cjk09083/PicknCheck" style="background-color:black;color:red"><b>얼굴성격검사</b></a>&nbsp; 
+- <div><b>개인 (3)</b> : <a href="https://github.com/cjk09083/PicknCheck" style="background-color:black;color:red"><b>얼굴성격검사</b></a>&nbsp; 
   <a href="https://github.com/cjk09083/meta" style="background-color:black;color:red"><b>메타버스게임</b></a>&nbsp;
   <a href="https://github.com/cjk09083/Code" style="background-color:black;color:red">코테자료</a>&nbsp;</div>
 
