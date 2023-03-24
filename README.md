@@ -42,7 +42,7 @@
 (1: 사용경험 / 2: 개발에 활용 / 3: 프로젝트 메인 개발자 / 4: 주력 개발 언어(3년이상) / 5: 대규모 프로젝트 + CS)
 - <b>Arduino (4)</b> : Wifi, Lora, Blutooth, Zigbee, I2C, Serial 등 유무선 통신 및 하드웨어 제어
 - <b>Android(JAVA) (4)</b> : 상용 어플리케이션 개발 및 배포 (Camera, Firebase, HTTP, WebRTC, GPS, SQLite 등) 
-- <b>Flutter(Dart) (3)</b> : Android로 구현된 어플리케이션을 하이브리드(+IOS)로 개발 및 배포
+- <b>Flutter(Dart) (3)</b> : Android로 구현된 어플리케이션을 하이브리드(+iOS)로 개발 및 배포
 - <b>Python (3)</b> : 로봇 제어 (ROS), 서버 연동, SQLite, WEB크롤링, OpenCV, Binance 코인 매매 봇 개발
 - <b>HTML, Javascript (3)</b> : 키오스크 & 게시판 & 쇼핑몰 & 관제시스템 홈페이지 개발 
 - <b>Php (3)</b> : MySQL, JSON 데이터 관리 및 조합, 이니시스 & 네이버페이 결제, SMS & FCM 전송 
