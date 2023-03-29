@@ -72,9 +72,9 @@
   <a href="https://github.com/cjk09083/3DMAKERZ" style="background-color:black;color:red">3DMAKERZ</a>&nbsp;
   <a href="https://github.com/cjk09083/GSP" style="background-color:black;color:red">GSP</a>&nbsp;
       </div>
-- <div><b>개인 (3)</b> : <a href="https://github.com/cjk09083/PicknCheck" style="background-color:black;color:red"><b>얼굴성격검사</b></a>&nbsp; 
-  <a href="https://github.com/cjk09083/meta" style="background-color:black;color:red"><b>메타버스게임</b></a>&nbsp;
+- <div><b>개인 (4)</b> : <a href="https://github.com/cjk09083/PicknCheck" style="background-color:black;color:red"><b>얼굴성격검사</b></a>&nbsp; 
   <a href="https://github.com/cjk09083/ftweather" style="background-color:black;color:red"><b>날씨앱</b></a>&nbsp;
-  <a href="https://github.com/cjk09083/Code" style="background-color:black;color:red"><b>코딩자료</b></a>&nbsp;</div>
+  <a href="https://github.com/cjk09083/meta" style="background-color:black;color:red">메타버스게임</a>&nbsp;
+  <a href="https://github.com/cjk09083/Code" style="background-color:black;color:red">코딩자료</a>&nbsp;</div>
 
 - 다수의 아두이노, 라즈베리파이, 웹사이트, 어플리케이션 시제품 제작
