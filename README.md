@@ -71,7 +71,7 @@
   <a href="https://github.com/cjk09083/TurboWin" style="background-color:black;color:red">TurboWin</a>&nbsp;
   <a href="https://github.com/cjk09083/COOPOP" style="background-color:black;color:red">COOPOP</a>&nbsp;
   <a href="https://github.com/cjk09083/3DMAKERZ" style="background-color:black;color:red">3DMAKERZ</a>&nbsp;
-  <a href="https://github.com/cjk09083/GSP" style="background-color:black;color:red">GSP</a>&nbsp;
+  <a href="https://github.com/cjk09083/GSP" style="background-color:black;color:red">GSPTECH</a>&nbsp;
   <a href="https://github.com/cjk09083/primerental" style="background-color:black;color:red">Primerental</a>&nbsp;
   <a href="https://github.com/cjk09083/primerental" style="background-color:black;color:red">뉴노멀</a>&nbsp;
       </div>
