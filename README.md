@@ -72,6 +72,7 @@
   <a href="https://github.com/cjk09083/COOPOP" style="background-color:black;color:red">COOPOP</a>&nbsp;
   <a href="https://github.com/cjk09083/3DMAKERZ" style="background-color:black;color:red">3DMAKERZ</a>&nbsp;
   <a href="https://github.com/cjk09083/GSP" style="background-color:black;color:red">GSP</a>&nbsp;
+  <a href="https://github.com/cjk09083/primerental" style="background-color:black;color:red">Primerental</a>&nbsp;
       </div>
 - <div><b>개인 (4)</b> : <a href="https://github.com/cjk09083/PicknCheck" style="background-color:black;color:red"><b>얼굴성격검사</b></a>&nbsp; 
   <a href="https://github.com/cjk09083/ftweather" style="background-color:black;color:red"><b>날씨앱</b></a>&nbsp;
