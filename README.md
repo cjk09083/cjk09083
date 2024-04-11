@@ -28,7 +28,7 @@
 
 ## 📝Tech (1 ~ 5 Level)
 <div>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=black"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
@@ -51,7 +51,7 @@
 - <b>Flutter(Dart) (4)</b> : 상용 어플리케이션을 하이브리드(Android & iOS)로 개발 및 배포 (GPS, Maps, Firebase, HTTP, BLE, SQLite, Provider 등) 
 - <b>Android(JAVA) (3)</b> : 상용 어플리케이션 개발 및 배포 (Camera, GPS, Maps, Firebase, HTTP, WebRTC, BLE, SQLite 등) 
 - <b>Python (3)</b> : 로봇 제어 (ROS), 서버 연동, SQLite, WEB크롤링, OpenCV, Binance 코인 매매 봇 개발
-- <b>HTML, Javascript (3)</b> : 키오스크 & 게시판 & 쇼핑몰 & 관제시스템 홈페이지 개발 
+- <b>HTML, Javascript, jQuery (3)</b> : 키오스크 & 게시판 & 쇼핑몰 & 관제시스템 홈페이지 개발 
 - <b>C, LabView (2)</b> : 대학 설계 프로젝트에 활용
 - <b>AWS EC2 (2)</b> : Linux 자동화 봇 개발
 
