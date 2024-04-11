@@ -43,7 +43,7 @@
 (1: 사용경험 / 2: 개발에 활용 / 3: 프로젝트 메인 개발자 / 4: 주력 개발 언어(5년이상) / 5: 대규모 프로젝트 + CS)
 - <b>Arduino (4)</b> : Wifi, Lora, Blutooth, Zigbee, I2C, Serial 등 유무선 통신 및 하드웨어 제어
 - <b>Php (4)</b> : MySQL, JSON 데이터 관리 및 조합, 이니시스 & 네이버페이 결제, SMS & FCM 전송 
-- <b>Flutter(Dart) (4)</b> : 상용 어플리케이션을 하이브리드(<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> & iOS)로 개발 및 배포 (GPS, Maps, Firebase, HTTP, BLE, SQLite, Provider 등) 
+- <b>Flutter(Dart) (4)</b> : 상용 어플리케이션을 하이브리드(<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> & <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>)로 개발 및 배포 (GPS, Maps, Firebase, HTTP, BLE, SQLite, Provider 등) 
 - <b>Android(JAVA) (3)</b> : 상용 어플리케이션 개발 및 배포 (Camera, GPS, Maps, Firebase, HTTP, WebRTC, BLE, SQLite 등) 
 - <b>Python (3)</b> : 로봇 제어 (ROS), 서버 연동, SQLite, WEB크롤링, OpenCV, Binance 코인 매매 봇 개발
 - <b>HTML, Javascript (3)</b> : 키오스크 & 게시판 & 쇼핑몰 & 관제시스템 홈페이지 개발 
