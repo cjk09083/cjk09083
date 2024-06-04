@@ -56,8 +56,8 @@
 - <b>Android(JAVA) (3)</b> : 상용 APP 개발 및 배포 (Camera, GPS, Maps, Firebase, HTTP, WebRTC, BLE, SQLite 등) 
 - <b>Python (3)</b> : 로봇 제어 (ROS), 서버 연동, SQLite, WEB크롤링, OpenCV, Binance 코인 매매 봇 개발
 - <b>HTML, Javascript (3)</b> : 키오스크 & 게시판 & 쇼핑몰 & 관제시스템 홈페이지 개발 
-- <b>C, LabView (2)</b> : 대학 설계 프로젝트에 활용
-- <b>AWS EC2 (2)</b> : Linux 자동화 봇 개발
+- <b>C/C++(Embedded), LabView (2)</b> : 설계 프로젝트 및 시제품 제작에 활용
+- <b>AWS EC2, Linux (2)</b> : 자동화 봇, 웹 서버 개발
 
 ## 🏆 Award
 - S.O.S: 문제 해결형 하드웨어 메이커톤 (세종창조경제혁신센터) :  입선 2018.06
