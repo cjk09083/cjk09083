@@ -75,12 +75,12 @@
   <a href="https://github.com/cjk09083/Tap-Inspection" style="background-color:black;color:red">탭검사기</a>&nbsp;  
   <a href="https://github.com/cjk09083/SmartValve" style="background-color:black;color:red">스마트수로</a>&nbsp; </div>
 - <div><b>기업 (8)</b> : <a href="https://github.com/cjk09083/ATD" style="background-color:black;color:red"><b>ATD</b></a>&nbsp;
+  <a href="https://github.com/cjk09083/GSP" style="background-color:black;color:red"><b>GSPTECH</b></a>&nbsp;
   <a href="https://github.com/cjk09083/SafetyHome" style="background-color:black;color:red"><b>안전한나라</b></a>&nbsp;
   <a href="https://github.com/cjk09083/CELLECO" style="background-color:black;color:red">CELLECO</a>&nbsp;
   <a href="https://github.com/cjk09083/TurboWin" style="background-color:black;color:red">TurboWin</a>&nbsp;
   <a href="https://github.com/cjk09083/COOPOP" style="background-color:black;color:red">COOPOP</a>&nbsp;
   <a href="https://github.com/cjk09083/3DMAKERZ" style="background-color:black;color:red">3DMAKERZ</a>&nbsp;
-  <a href="https://github.com/cjk09083/GSP" style="background-color:black;color:red">GSPTECH</a>&nbsp;
   <a href="https://github.com/cjk09083/primerental" style="background-color:black;color:red">Primerental</a>&nbsp;
   <a href="https://github.com/cjk09083/newnormal" style="background-color:black;color:red">뉴노멀</a>&nbsp;
       </div>
