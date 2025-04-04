@@ -24,7 +24,7 @@
   정규학기 실습조교(센서응용, 아두이노), 아두이노 방학특강 2회 진행 (1회 15시간)
 - 바이트테크놀러지 (IT 개발) : 2021.06 ~ 2022.06
 - GSPTech (개발) : 2023.01 ~ 2024.05
-- ATDKOREA (개발) : 2024.06 ~
+- ATD KOREA (개발) : 2024.06 ~
 - [2023 관광데이터 활용 공모전] 앱스토어 / 플레이스토어 / 원스토어 등록 강의 : 2023.09.06 
 
 
@@ -74,7 +74,7 @@
     <a href="https://github.com/cjk09083/Rendezvous" style="background-color:black;color:red">멀티로봇랑데부</a>&nbsp;
   <a href="https://github.com/cjk09083/Tap-Inspection" style="background-color:black;color:red">탭검사기</a>&nbsp;  
   <a href="https://github.com/cjk09083/SmartValve" style="background-color:black;color:red">스마트수로</a>&nbsp; </div>
-- <div><b>기업 (9)</b> : <a href="https://github.com/cjk09083/ATD" style="background-color:black;color:red"><b>ATD</b></a>&nbsp;
+- <div><b>기업 (9)</b> : <a href="https://github.com/cjk09083/ATD" style="background-color:black;color:red"><b>ATD KOREA</b></a>&nbsp;
   <a href="https://github.com/cjk09083/GSP" style="background-color:black;color:red"><b>GSP</b></a>&nbsp;
   <a href="https://github.com/cjk09083/SafetyHome" style="background-color:black;color:red"><b>안전한나라</b></a>&nbsp;
   <a href="https://github.com/cjk09083/CELLECO" style="background-color:black;color:red">CELLECO</a>&nbsp;
