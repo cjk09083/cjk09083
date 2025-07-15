@@ -61,9 +61,9 @@
 
 ## 🏆 Award
 - S.O.S: 문제 해결형 하드웨어 메이커톤 (세종창조경제혁신센터) :  입선 2018.06
-- S.O.S: 창의적 종합설계 경진대회 지역예선 (영남대공학교육혁신센터) : 	<a href="https://mmm.hongik.ac.kr/front/boardview.do?siteGubun=1&menuGubun=1&bbsConfigFK=1&pkid=133082&menuCode=006001" target="_blank">대상 2018.09 </a></b>
+- S.O.S: 창의적 종합설계 경진대회 지역예선 (영남대공학교육혁신센터) : 	<a href="https://www.hongik.ac.kr/kr/newscenter/news.do?mode=view&articleNo=77724&title=2018+%EC%B0%BD%EC%9D%98%EC%A0%81+%EC%A2%85%ED%95%A9%EC%84%A4%EA%B3%84+%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C+%EA%B1%B0%EC%A0%90+%EC%98%88%EC%84%A0%EC%A0%84+%22S.O.S%22%ED%8C%80+%EB%8C%80%EC%83%81+%EC%88%98%EC%83%81" target="_blank">대상 2018.09 </a></b>
 - S.O.S: IoT 이노베이션 챌린지 (한국전자정보통신산업진흥회) : 	<a href="http://www.iotchallenge.kr/prize-list.php?boardid=prize&mode=view&idx=30&category=2018">입선 2018.10</a></b>
-- S.O.S: 창의적 종합설계 경진대회 본선 (한국산업진흥원) : 		<a href="https://mmm.hongik.ac.kr/front/boardview.do?siteGubun=1&menuGubun=1&bbsConfigFK=1&pkid=133334&menuCode=006001" target="_blank">한국산업진흥원장상 2018.11</a></b> 
+- S.O.S: 창의적 종합설계 경진대회 본선 (한국산업진흥원) : 		<a href="https://www.hongik.ac.kr/kr/newscenter/news.do?mode=view&articleNo=77751&title=%ED%99%8D%EC%9D%B5%EB%8C%80%ED%95%99%EA%B5%90+%EC%84%B8%EC%A2%85%EC%BA%A0%ED%8D%BC%EC%8A%A4%2C+2018+%EA%B3%B5%ED%95%99%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C+%EC%B0%BD%EC%9D%98%EC%A0%81+%EC%A2%85%ED%95%A9%EC%84%A4%EA%B3%84+%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C+%ED%95%9C%EA%B5%AD%EC%82%B0%EC%97%85%EA%B8%B0%EC%88%A0%EC%A7%84%ED%9D%A5%EC%9B%90%EC%9E%A5%EC%83%81%2C+%EB%B2%A4%EC%B2%98%EA%B8%B0%EC%97%85%ED%98%91%ED%9A%8C%EC%9E%A5%EC%83%81+%EC%88%98%EC%83%81" target="_blank">한국산업진흥원장상 2018.11</a></b> 
 - <b>SRCP: Space Robotics Challenge Phase 2 (NASA 미항공우주국) :	<a href="http://www.irobotnews.com/news/articleView.html?idxno=23801" target="_blank">Qualification Winner 2021.02 </a></b>
 
 ## 📂 Project 
